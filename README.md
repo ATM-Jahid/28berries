@@ -1,6 +1,6 @@
 # 28berries
 
-Cycle tracker focused on security
+A cycle tracker focused on security
 
 ## License
 
