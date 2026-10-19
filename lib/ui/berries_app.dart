@@ -47,7 +47,7 @@ class _WelcomeScreen extends StatelessWidget {
                 ),
                 const SizedBox(height: 16),
                 const Text(
-                  'A personal period tracker, designed to stay on your device.',
+                  'A personal cycle tracker, designed to stay on your device.',
                 ),
                 const SizedBox(height: 32),
                 const Card(
